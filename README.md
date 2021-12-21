@@ -2,7 +2,7 @@
 Dataset:
 dataset
 First, the infection of leaves with Alternaria disease and Leafminear pest is diagnosed by a plant pathologist in the located farm in Vali-e-Asr University of Rafsanjan under study. These leaves are then transferred to the laboratory in a short time to confirm the presence of Alternaria on them (see Figure 2).
-A Canon IXUS 960 IS 12/1 Mega pixel digital camera is used for database photography. The database is composed of 172 images of tomato leaves infected with both Alternaria disease and Leafminear pest as well as 100 healthy tomato leaves. The photography is done with a vertical distance of 50 cm and under the condition of natural light. The images have a resolution of 3072 × 4608 pixels. They are transferred to a computer and processed in MATLAB environment. The database is available in this page.
+A Canon IXUS 960 IS 12/1 Mega pixel digital camera is used for database photography. The database is composed of 172 images of tomato leaves infected with both Alternaria disease and Leafminear pest as well as 100 healthy tomato leaves. The photography is done with a vertical distance of 50 cm and under the condition of natural light. The images have a resolution of 3072 × 4608 pixels. They are transferred to a computer and processed in MATLAB environment. The database is available in this page. kobra.nazari.cs@Gmail.com
 
 
  Diagnosis of Alternaria disease and Leafminear pest on Tomato Leaves using Image Processing Techniques
